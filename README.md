@@ -34,7 +34,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Yuri Cunha](https://github.com/isyuricunha).<br />
-This project is [Personal](https://www.capitao-hookah-lounge.yuricunha.com/) licensed.
+This project is [Personal](https://github.com/isyuricunha/capitao-hookah-lounge/blob/main/license.md) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
