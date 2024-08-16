@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to capitao-hookah-lounge 👋</h1>
+<h1 align="center">capitao-hookah-lounge</h1>
 <p>
   <a href="https://www.capitao-hookah-lounge.yuricunha.com/" target="_blank">
     <img alt="License: Personal" src="https://img.shields.io/badge/License-Personal-yellow.svg" />
